@@ -1,4 +1,4 @@
-# 📌Text Summarrizer using langchain 
+# 📌Text Summarizer using langchain 
 This project is **AI powered Text summarization** built using **OpenAI LLM - 'gpt-3.5-turbo'**.It helps user generate the **quality summary for the text inputed** based on given text making content creation faster and more effective .
 
 <img src= "text_summarizer.png" alt = "Alt text" width="1000" height="1000">
